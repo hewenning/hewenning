@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Computer graphics.
+- 💬 Ask me about C++/Lua
+- 📫 How to reach me: 知乎[@小橡皮](https://www.zhihu.com/people/hewenning)
+
