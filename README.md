@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Computer graphics.
+- 🌱 I’m currently learning computer graphics.
 - 💬 Ask me about C++/Lua.
 - 📫 How to reach me: 知乎[@小橡皮](https://www.zhihu.com/people/hewenning)
 
