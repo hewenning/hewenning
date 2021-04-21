@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning computer graphics.
-- 💬 Ask me about C++/Lua.
+- 💬 Ask me about C++/Lua/TypeScript.
 - 📫 How to reach me: 知乎[@小橡皮](https://www.zhihu.com/people/hewenning).
 
