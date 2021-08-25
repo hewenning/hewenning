@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning to write a soft renderer.
+- 🌱 I’m currently learning to write a rasterizer and raytracer.
 - 💬 Ask me about C++/Lua/TypeScript.
 - 📫 How to reach me: 知乎[@小橡皮](https://www.zhihu.com/people/hewenning).
 - ⚡ Fun fact: Computer Graphics.
